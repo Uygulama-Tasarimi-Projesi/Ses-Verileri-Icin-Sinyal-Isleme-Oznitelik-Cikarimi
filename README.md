@@ -1,5 +1,5 @@
 # Ses Verileri İçin Sinyal İşleme ve Öznitelik Çıkarımı
-## Yapılan Teknik Çalışmalar### Veri Ön İşleme ve Gürültü Temizleme
+## Veri Ön İşleme ve Gürültü Temizleme
 RAVDESS veri seti, aktör bazlı (Actor-Independent) eğitim stratejisine uygun olarak train, test ve val klasörlerine ayrıştırılmıştır.
 
 Sinyal Dönüşümü: Ham .wav dosyaları Librosa kütüphanesi ile 22.050 Hz örnekleme hızında bilgisayar ortamında işlenebilir dijital sinyallere dönüştürülmüştür.
