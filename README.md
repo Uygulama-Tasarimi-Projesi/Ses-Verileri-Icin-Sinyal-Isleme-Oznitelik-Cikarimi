@@ -1,0 +1,1 @@
+# Ses-Verileri-Icin-Sinyal-Isleme-Oznitelik-Cikarimi
