@@ -3,7 +3,7 @@ import librosa
 import librosa.display
 import matplotlib.pyplot as plt
 
-npz_yolu ="C:\\Users\\asus\\Desktop\\3_sinif_bahar\\Uygulama_tasarim\\8.hafta\\akustik oznitelik çıkarımı\\oznitelik_havuzu_npz\\train\\Actor_02\\03-01-01-01-01-01-02_features.npz"
+npz_yolu ="03-01-01-01-01-01-02_features.npz"
 
 data = np.load(npz_yolu)
 mel_db = data['mel']
